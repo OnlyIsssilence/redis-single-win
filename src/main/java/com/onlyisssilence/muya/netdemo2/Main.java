@@ -7,10 +7,9 @@ package com.onlyisssilence.muya.netdemo2;
  */
 public class Main {
 
-
     public static void main(String[] args) {
 
-    new RedisClient().show();
-}
+        new RedisClient().show();
+    }
 
 }
