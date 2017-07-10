@@ -1,4 +1,4 @@
-package com.onlyisssilence.muya;
+package com.onlyisssilence.muya.netdemo1;
 
 /**
  * Hello world!

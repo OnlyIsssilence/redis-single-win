@@ -1,4 +1,4 @@
-package com.onlyisssilence.muya;
+package com.onlyisssilence.muya.netdemo1;
 
 
 import org.junit.Before;
@@ -13,7 +13,16 @@ import java.util.Map;
 /**
  * Author: MuYa
  * Date  : 2017/7/10
- * Description:
+ * Description:单机redis模式下初始化redis方法，以及通过redis pool获取redis的方法：
+ *
+ * 单机模式：jedis = new Jedis("127.0.0.1", 6379);
+ *
+ * redis pool:
+ *          JedisPoolConfig config = new JedisPoolConfig();
+ *          config.setXXX();
+ *          JedisPool jedisPool = new JedisPool(xxx,config,xxx...);
+ *          jdeis = jedisPool.getResource();
+ *
  */
 
 public class TestRedis {
