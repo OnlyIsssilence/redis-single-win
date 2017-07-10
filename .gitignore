@@ -1,0 +1,22 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/copyright/
+.idea/libraries/Maven__ch_qos_logback_logback_classic_0_9_24.xml
+.idea/libraries/Maven__ch_qos_logback_logback_core_0_9_24.xml
+.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml
+.idea/libraries/Maven__log4j_log4j_1_2_17.xml
+.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_6_1.xml
+.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_1.xml
+.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_6_6.xml
+.idea/libraries/Maven__org_springframework_data_spring_data_redis_1_0_2_RELEASE.xml
+.idea/libraries/Maven__org_springframework_spring_aop_3_1_2_RELEASE.xml
+.idea/libraries/Maven__org_springframework_spring_asm_3_1_2_RELEASE.xml
+.idea/libraries/Maven__org_springframework_spring_beans_3_1_2_RELEASE.xml
+.idea/libraries/Maven__org_springframework_spring_context_3_1_2_RELEASE.xml
+.idea/libraries/Maven__org_springframework_spring_context_support_3_1_2_RELEASE.xml
+.idea/libraries/Maven__org_springframework_spring_core_3_1_2_RELEASE.xml
+.idea/libraries/Maven__org_springframework_spring_expression_3_1_2_RELEASE.xml
+.idea/libraries/Maven__org_springframework_spring_tx_3_1_2_RELEASE.xml
+.idea/uiDesigner.xml
+.idea/vcs.xml
+.idea/workspace.xml
+target/
