@@ -1,0 +1,6 @@
+CREATE TABLE t_user {
+id INTEGER (26) NOT NULL ,
+sex VARCHAR (10) NOT NULL DEFAULT '男' ,
+name VARCHAR (50),
+PRIMARY KEY ('id')
+}
